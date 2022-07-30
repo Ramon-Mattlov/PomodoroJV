@@ -1,2 +1,2 @@
-# java
-new java project
+# Pomodoro
+Учебный проект Pomodoro
